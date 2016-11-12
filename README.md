@@ -1,10 +1,10 @@
 ## SBOXSETUP
 
-By dannyti ---> https://github.com/dannyti/
+By BestBox ---> https://github.com/bboxapi/
 
 Donate if you can - Beer Joint Address : Bitcoin address: 1ACi4NRpfzkCNDaTgwFpCFcHoMMRCCT4wC
 
-## [Wiki](https://github.com/dannyti/sboxsetup/wiki)    ||    [FAQ](https://github.com/dannyti/sboxsetup/wiki/FAQ)
+## [Wiki](https://github.com/bboxapi/sboxsetup/wiki)    ||    [FAQ](https://github.com/bboxapi/sboxsetup/wiki/FAQ)
 
 Intends to install sbox without errors alongwith crontab entries to restart services on reboots. 
 This will properly populate tracker list for autodl. Make crontab entries for the user to restart rtorrent on reboots and check whether it's running. 
@@ -162,7 +162,7 @@ Support
 There is no real support for this script, but nerds are talking a lot about it here and you may find solutions for your problems in that thread.
 License
 
-Copyright (c) 2015 dannyti (https://github.com/dannyti/)
+Copyright (c) 2015 bboxapi (https://github.com/bboxapi/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
