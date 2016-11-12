@@ -2,8 +2,6 @@
 
 By BestBox ---> https://github.com/bboxapi/
 
-Donate if you can - Beer Joint Address : Bitcoin address: 1ACi4NRpfzkCNDaTgwFpCFcHoMMRCCT4wC
-
 ## [Wiki](https://github.com/bboxapi/sboxsetup/wiki)    ||    [FAQ](https://github.com/bboxapi/sboxsetup/wiki/FAQ)
 
 Intends to install sbox without errors alongwith crontab entries to restart services on reboots. 
