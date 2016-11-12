@@ -2,7 +2,7 @@
 
 By BestBox ---> https://github.com/bboxapi/
 
-## [Wiki](https://github.com/bboxapi/sboxsetup/wiki)    ||    [FAQ](https://github.com/bboxapi/sboxsetup/wiki/FAQ)
+## [Wiki](https://github.com/bboxapi/serverconfig/wiki)    ||    [FAQ](https://github.com/bboxapi/serverconfig/wiki/FAQ)
 
 Intends to install sbox without errors alongwith crontab entries to restart services on reboots. 
 This will properly populate tracker list for autodl. Make crontab entries for the user to restart rtorrent on reboots and check whether it's running. 
